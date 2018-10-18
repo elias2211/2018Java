@@ -1,0 +1,25 @@
+input and output redirection.
+
+git init     type i   then  esc :wq to exit
+git add <file>
+git status
+git commit
+
+git coomit -m 'comment'
+git push
+git version
+git pull
+git clone
+git rm --cached <file>
+git add *.html  and any html file
+git add *     add everything.
+
+git config --global user.emil "email address"
+git config --global user.name "user name"
+
+Omit --global  to reset
+
+git branch login
+git checkout 'login'
+git push
+git pull
